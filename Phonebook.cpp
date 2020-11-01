@@ -244,7 +244,7 @@ tryagain:
     system("cls");
    int choise=0;
    cout << "-----------In Memories Of All Rained Flower--------" << endl;
-   cout << "***************Sepehr Najariyan PhoneBook*********" << endl;
+   cout << "*************** PhoneBook*********" << endl;
    cout << "MENU" << endl;
    cout << "1.SHOW ALL CONTACTS" << endl;
    cout << "2.ADD CONTACT" << endl;
